@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: arkawa
+    password: '///'
+    url: jdbc:sqlserver://morfeusz.wszib.edu.pl:1433;databaseName=arkawa;encrypt=false;
+  jpa:
+    hibernate:
+      ddl-auto: update
